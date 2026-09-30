@@ -83,8 +83,7 @@ export default function Hero() {
             }}
             className="mt-6 max-w-2xl text-base leading-relaxed text-zinc-400 sm:text-lg md:text-xl"
         >
-            Building intelligent applications with AI,
-            data, and software engineering.
+            Exploring AI / ML and Software Engineering through real-world projects..
         </motion.p>
 
         {/* ============================================= */}
